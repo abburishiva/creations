@@ -1,0 +1,20 @@
+[
+    {
+        "currentState": true,
+        "title": "Home work",
+        "description": "Need to complete Home work",
+        "createdAt": "2020-03-19",
+        "dueDate": "2020-03-20",
+        "priority": "Hight",
+        "id": "cbjhsdb3472392bsdjh"
+    },
+    {
+        "currentState": false,
+        "title": "Milk",
+        "description": "Buy milk from shop",
+        "createdAt": "2020-03-19",
+        "dueDate": "2020-03-21",
+        "priority": "Hight",
+        "id": "ksjdnfksn237236jksan"
+    }
+]
